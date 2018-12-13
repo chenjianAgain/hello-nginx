@@ -13,3 +13,6 @@ This uses ECS Fargate, so be sure to run in us-east-1
 ```
 mu pipeline up
 ```
+
+aef9f4de3d02c727f2f06efa89e9154402ba75d6
+```
